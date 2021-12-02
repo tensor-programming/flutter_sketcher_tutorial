@@ -1,10 +1,16 @@
-# flutter_sketcher_tutorial
+# sketcher
 
-### In this tutorial, we build an etch-a-sketch type of application in flutter. 
+A new Flutter project.
 
-### To build this application, you will need the latest version of the flutter preview build and Dart 2.0 SDK for more information, [click here](https://github.com/flutter/flutter/wiki/Trying-the-preview-of-Dart-2-in-Flutter)
-### Check out the Youtube Tutorial for this [Dart Flutter Program](https://youtu.be/G7ZmQEXqmGA). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
+## Getting Started
 
-### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
+This project is a starting point for a Flutter application.
 
-### Our [Twitter](https://twitter.com/TensorProgram), our [facebook](https://www.facebook.com/Tensor-Programming-1197847143611799/) and our [Steemit](https://steemit.com/@tensor).
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
